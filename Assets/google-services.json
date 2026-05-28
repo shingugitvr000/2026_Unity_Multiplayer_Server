@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693237989800",
+    "project_id": "shingutest-e4664",
+    "storage_bucket": "shingutest-e4664.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693237989800:android:42e4baee5e935e0c5add9d",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Unity_Multiplayer_Server_3D_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzSZITnlNPjj5-PRahLwVqlfClPhOUba8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
